@@ -120,26 +120,28 @@ iframe {
     background: mistyrose;
 }
 
-.hero-1{
+.hero-6 {
     min-height: 60rem;
 }
 
-.hero-2{
+.hero-4 {
     min-height: 40rem;
 }
 
-.hero-3{
+.hero-2 {
     min-height: 20rem;
 }
 
-.hero-4{
+.hero-1 {
     min-height: 10rem;
 }
 
-/*  */
+.hero-12 {
+    min-height: 5rem;
+}
 
 .m {
-    background: thistle;
+    background: dodgerblue;
 }
 
 @media (min-width: .1rem) {  }
